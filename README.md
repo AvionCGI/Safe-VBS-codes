@@ -6,7 +6,7 @@ Some prank virus
 1. You are an idiot : A window that when closed doubles the window.
 2. Infinite Windows : Annoying Black window popups.#
 
-###How to set up "You are an idiot" scammy file
+### How to set up "You are an idiot" scammy file
 
 1. Right click on "You are an idiot" file. (click on show more options if needed)
 
