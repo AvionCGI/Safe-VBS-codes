@@ -5,8 +5,14 @@ Some prank virus
 ### Differnt uses:
 1. You are an idiot : A window that when closed doubles the window.
 2. Infinite Windows : Annoying Black window popups.
+ 
 
 
+
+
+
+
+     
 -----------------------------------------------------------------------------------------
 
 # ↓ TUTORIALS ↓  
