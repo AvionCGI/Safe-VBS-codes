@@ -1,7 +1,7 @@
 # Safe-VBS-codes
 Some prank virus
 # All files are safe
-`NOTE: ALL FILES ARE SAFE`
+`NOTE: ALL FILES ARE SAFE, FOR EDUCATIONAL PURPOSES ONLY`
 ### Differnt uses:
 1. You are an idiot : A window that when closed doubles the window.
 2. Infinite Windows : Annoying Black window popups.#
@@ -32,4 +32,6 @@ Some prank virus
 
 ![image](https://github.com/AvionCGI/Safe-VBS-codes/assets/157320811/15af84e9-4733-4242-9e04-74af5ef8aea5)
 
-7. 
+7. Done and ENJOY!!!
+
+# REMEMBER: The only way to close all windows is to restart laptop
