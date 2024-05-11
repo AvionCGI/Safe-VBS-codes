@@ -7,7 +7,7 @@ Some prank virus
 2. Infinite Windows : Annoying Black window popups.
 
 
-
+-----------------------------------------------------------------------------------------
 
 # ↓ TUTORIALS ↓  
 
