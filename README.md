@@ -4,7 +4,14 @@ Some prank virus
 `NOTE: ALL FILES ARE SAFE, FOR EDUCATIONAL PURPOSES ONLY`
 ### Differnt uses:
 1. You are an idiot : A window that when closed doubles the window.
-2. Infinite Windows : Annoying Black window popups.#
+2. Infinite Windows : Annoying Black window popups.
+
+
+
+
+# ↓ TUTORIALS ↓  
+
+
 
 ### How to set up "You are an idiot"  file
 
