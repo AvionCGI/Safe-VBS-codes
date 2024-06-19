@@ -2,7 +2,7 @@
 Some prank virus (WINDOWS ONLY)
 # All files are safe
 `NOTE: ALL FILES ARE SAFE, FOR EDUCATIONAL PURPOSES ONLY`
-### Differnt uses:
+### Virus Descriptions:
 1. You are an idiot : A window that when closed doubles the window.
 2. Infinite Windows : Annoying Black window popups.
 3. Calculator Spam: Spamms annoying lots of Calculator. Restart to clear.
