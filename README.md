@@ -1,5 +1,5 @@
 # Safe-VBS-codes
-Some prank virus
+Some prank virus (WINDOWS ONLY)
 # All files are safe
 `NOTE: ALL FILES ARE SAFE, FOR EDUCATIONAL PURPOSES ONLY`
 ### Differnt uses:
@@ -17,7 +17,7 @@ Some prank virus
 
 
 
-### How to set up "You are an idiot"  file
+### 1. How to set up "You are an idiot"  file
 
 1. Right click on "You are an idiot" file. (click on show more options if needed)
 
@@ -45,4 +45,14 @@ Some prank virus
 
 7. Done and ENJOY!!!
 
+# REMEMBER: The only way to close all windows is to restart laptop
+
+### 2. How to use "Infinite Windows"
+
+1. Double click
+2. Use and have fun!
+# REMEMBER: The only way to close all windows is to restart laptop
+
+### 3. How to use Calculator Spam
+1. Use it and have fun! :D
 # REMEMBER: The only way to close all windows is to restart laptop
